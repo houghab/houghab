@@ -1,9 +1,9 @@
-# Welcome to my reository 👀
+# Hello and welcome to my reository 👀
+
+## This is a space to showcase what I'm currently working on an a little about me.
 
 
-A bit about me:
-
-- 🔍 I’m currently following a training progrmame with CoGrammar
-- 🌱 learning to code with Python 🐍
+- 🔍 I’m currently undertaking a training progrmame with CoGrammar
+- 🌱 learning how to code with Python 🐍
 
 
