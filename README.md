@@ -7,3 +7,5 @@
 - 🌱 learning how to code with Python 🐍
 
 
+
+**Stay tuned for forther information being added to the page as I progress through the course**
