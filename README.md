@@ -1,4 +1,4 @@
-# Hello and welcome to my reository 👀
+# Hello and welcome to my repository 👀
 
 ## This is a space to showcase what I'm currently working on an a little about me.
 
